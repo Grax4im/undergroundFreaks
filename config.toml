@@ -1,4 +1,4 @@
-baseURL = "https://vigilant-sammet-895ce7.netlify.app/"
+baseURL = "https://example.com"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Underground Freaks"
@@ -37,7 +37,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   themeColor = "#494f5c"
 
   homeSubtitle = "Um blog dedicado a cultura underground, a arte e a liberdade."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  footerCopyright = ' &#183; <a href="https://pt.wikipedia.org/wiki/Copyleft" target="_blank" rel="noopener">CopyLeft</a>'
   # bgImg = ""  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
